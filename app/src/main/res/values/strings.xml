@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="message">Olá!</string>
+    <string name="message_classificacao">Classificação: %1$s!</string>
+    <string name="tabela_imc_nmenor_que_18_5_abaixo_do_peso_nentre_18_5_e_24_9_normal_nentre_25_0_e_29_9_sobrepeso_i_nentre_30_0_e_39_9_obesidade_ii_nmaior_que_40_0_obesidade_grave_iii">*TABELA IMC* \nMENOR QUE 18,5= ABAIXO DO PESO \nENTRE 18,5 E 24,9= NORMAL \nENTRE 25,0 E 29,9= SOBREPESO I \nENTRE 30,0 E 39,9= OBESIDADE II \nMAIOR QUE 40,0= OBESIDADE GRAVE III</string>
+</resources>
